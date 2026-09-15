@@ -115,8 +115,6 @@ st.markdown("""
 st.subheader("Tools & Platforms")
 st.markdown("""
 <span class="badge">Wireshark</span>
-<span class="badge">Splunk</span>
-<span class="badge">Nmap</span>
 <span class="badge">Active Directory</span>
 """, unsafe_allow_html=True)
 
