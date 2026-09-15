@@ -115,6 +115,7 @@ st.markdown("""
 st.subheader("Tools & Platforms")
 st.markdown("""
 <span class="badge">Wireshark</span>
+<span class="badge">Wazuh</span>
 <span class="badge">Active Directory</span>
 """, unsafe_allow_html=True)
 
