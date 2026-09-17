@@ -161,13 +161,7 @@ st.divider()
 st.header("💼 Work Experience")
 st.info("No Info at this time")
 
-st.divider()
 
-# ==========================================
-# SECURITY LABS & WRITEUPS (Placeholder)
-# ==========================================
-st.header("🧪 Security Labs & Writeups")
-st.info("No Info at this time")
 
 st.divider()
 
