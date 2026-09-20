@@ -151,7 +151,7 @@ st.divider()
 # ==========================================
 st.header("💻 Projects")
 # To add future projects: Replace the string below with project details or code blocks!
-st.info("No Info at this time")
+st.info("Automated Phishing Email Header Parser & Threat Intelligence Pipeline")
 
 st.divider()
 
