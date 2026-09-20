@@ -158,8 +158,8 @@ st.divider()
 # ==========================================
 # EXPERIENCE / WORK HISTORY (Placeholder)
 # ==========================================
-st.header("💼 Work Experience")
-st.info("No Info at this time")
+#st.header("💼 Work Experience")
+#st.info("No Info at this time")
 
 
 
