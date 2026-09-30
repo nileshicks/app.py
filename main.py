@@ -53,7 +53,7 @@ st.markdown("""
 # ==========================================
 st.title("🛡️ Niles Ashur Hicks")
 st.subheader("Cybersecurity Undergraduate Student")
-st.write("📍 Olive Branch, MS | ✉️ Ashurhicks@gmail.com | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nileshicks) | [GitHub](https://github.com/nileshicks)")
+st.write(" Olive Branch, MS | Ashurhicks@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/nileshicks) | [GitHub](https://github.com/nileshicks)")
 
 st.divider()
 
