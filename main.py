@@ -53,7 +53,7 @@ st.markdown("""
 # ==========================================
 st.title("🛡️ Niles Ashur Hicks")
 st.subheader("Cybersecurity Undergraduate Student")
-st.write("📍 Olive Branch, MS | ✉️ Ashurhicks@gmail.com | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nileshicks)")
+st.write("📍 Olive Branch, MS | ✉️ Ashurhicks@gmail.com | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nileshicks) | [GitHub](https://github.com/nileshicks)")
 
 st.divider()
 
@@ -152,7 +152,9 @@ st.divider()
 st.header("💻 Projects")
 # To add future projects: Replace the string below with project details or code blocks!
 st.info("Automated Phishing Email Header Parser & Threat Intelligence Pipeline")
-
+st.write(
+    "This project is a Python-based SOC automation pipeline that ingests raw .eml email files and instantly performs both structural header analysis and automated threat enrichment"
+)
 st.divider()
 
 # ==========================================
